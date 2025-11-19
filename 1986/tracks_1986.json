@@ -1,49 +1,56 @@
-{\rtf1\ansi\ansicpg1252\cocoartf2822
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
-{\colortbl;\red255\green255\blue255;}
-{\*\expandedcolortbl;;}
-\margl1440\margr1440\vieww11520\viewh8400\viewkind0
-\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
-
-\f0\fs24 \cf0 \{\
-  "year": 1986,\
-  "stationId": "KROQ-FM-1067-LosAngeles",\
-  "tracks": [\
-    \{\
-      "file": "1986-02-25_KROQ-FM-1067-LosAngeles_R1.mp3",\
-      "date": "1986-02-25",\
-      "recording": 1\
-    \},\
-    \{\
-      "file": "1986-03-22_KROQ-FM-1067-LosAngeles_R1.mp3",\
-      "date": "1986-03-22",\
-      "recording": 1\
-    \},\
-    \{\
-      "file": "1986-03-22_KROQ-FM-1067-LosAngeles_R2.mp3",\
-      "date": "1986-03-22",\
-      "recording": 2\
-    \},\
-    \{\
-      "file": "1986-08-XX_KROQ-FM-1067-LosAngeles_R1.mp3",\
-      "date": "1986-08-XX",\
-      "recording": 1,\
-      "notes": "Day unknown"\
-    \},\
-    \{\
-      "file": "1986-09-01_KROQ-FM-1067-LosAngeles_R1.mp3",\
-      "date": "1986-09-01",\
-      "recording": 1\
-    \},\
-    \{\
-      "file": "1986-09-26_KROQ-FM-1067-LosAngeles_R1.mp3",\
-      "date": "1986-09-26",\
-      "recording": 1\
-    \},\
-    \{\
-      "file": "1986-09-29_KROQ-FM-1067-LosAngeles_R1.mp3",\
-      "date": "1986-09-29",\
-      "recording": 1\
-    \}\
-  ]\
-\}}
+[
+  {
+    "trackId": "1986-01-05_KROQ-FM-1067-LosAngeles_R1",
+    "year": 1986,
+    "month": 1,
+    "day": 5,
+    "stationId": "KROQ-FM-1067-LosAngeles",
+    "recordingIndex": 1,
+    "filePath": "1986/KROQ-FM-1067-LosAngeles/1986-01-05_KROQ-FM-1067-LosAngeles_R1.mp3"
+  },
+  {
+    "trackId": "1986-02-01_KROQ-FM-1067-LosAngeles_R1",
+    "year": 1986,
+    "month": 2,
+    "day": 1,
+    "stationId": "KROQ-FM-1067-LosAngeles",
+    "recordingIndex": 1,
+    "filePath": "1986/KROQ-FM-1067-LosAngeles/1986-02-01_KROQ-FM-1067-LosAngeles_R1.mp3"
+  },
+  {
+    "trackId": "1986-02-01_KROQ-FM-1067-LosAngeles_R2",
+    "year": 1986,
+    "month": 2,
+    "day": 1,
+    "stationId": "KROQ-FM-1067-LosAngeles",
+    "recordingIndex": 2,
+    "filePath": "1986/KROQ-FM-1067-LosAngeles/1986-02-01_KROQ-FM-1067-LosAngeles_R2.mp3"
+  },
+  {
+    "trackId": "1986-03-15_KROQ-FM-1067-LosAngeles_R1",
+    "year": 1986,
+    "month": 3,
+    "day": 15,
+    "stationId": "KROQ-FM-1067-LosAngeles",
+    "recordingIndex": 1,
+    "filePath": "1986/KROQ-FM-1067-LosAngeles/1986-03-15_KROQ-FM-1067-LosAngeles_R1.mp3"
+  },
+  {
+    "trackId": "1986-04-01_KROQ-FM-1067-LosAngeles_R1",
+    "year": 1986,
+    "month": 4,
+    "day": 1,
+    "stationId": "KROQ-FM-1067-LosAngeles",
+    "recordingIndex": 1,
+    "filePath": "1986/KROQ-FM-1067-LosAngeles/1986-04-01_KROQ-FM-1067-LosAngeles_R1.mp3"
+  },
+  {
+    "trackId": "1986-05-01_KROQ-FM-1067-LosAngeles_R1",
+    "year": 1986,
+    "month": 5,
+    "day": 1,
+    "stationId": "KROQ-FM-1067-LosAngeles",
+    "recordingIndex": 1,
+    "filePath": "1986/KROQ-FM-1067-LosAngeles/1986-05-01_KROQ-FM-1067-LosAngeles_R1.mp3"
+  }
+]

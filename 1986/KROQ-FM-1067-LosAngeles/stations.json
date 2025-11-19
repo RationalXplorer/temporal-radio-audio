@@ -1,0 +1,22 @@
+[
+  {
+    "stationId": "KROQ-FM-1067-LosAngeles",
+    "callSign": "KROQ-FM",
+    "frequency": "106.7",
+    "band": "FM",
+    "stationName": "KROQ 106.7",
+    "branding": "The World Famous KROQ",
+    "city": "Pasadena",
+    "market": "Los Angeles",
+    "state": "CA",
+    "region": "West Coast",
+    "country": "USA",
+    "format": "Modern Rock / Alternative (80s-90s)",
+    "owner": "Infinity Broadcasting / CBS Radio (historical)",
+    "activeYears": {
+      "start": 1972,
+      "end": null
+    },
+    "comments": "One of the most influential alternative rock stations in the United States, especially during the 80s and 90s."
+  }
+]
